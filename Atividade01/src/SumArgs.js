@@ -5,3 +5,4 @@ const numero2 = Number(args[1]);
 
 const resultado = numero1 + numero2;
 console.log(`Resultado: ${resultado}`);
+
